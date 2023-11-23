@@ -1,3 +1,1 @@
-<div id="header" align="center">
-  <img src="https://tenor.com/view/%D1%87%D1%82%D0%BE-gif-24946395" width="200"/>
-</div>
+<div class="tenor-gif-embed" data-postid="24946395" data-share-method="host" data-aspect-ratio="1.02894" data-width="100%"><a href="https://tenor.com/view/%D1%87%D1%82%D0%BE-gif-24946395">что Sticker</a>from <a href="https://tenor.com/search/%D1%87%D1%82%D0%BE-stickers">что Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
