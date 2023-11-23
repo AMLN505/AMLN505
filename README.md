@@ -13,7 +13,7 @@
 <h3>👨‍💻 About Me :</h3>
 <div>I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</div>
 <br>
-🛠️ Languages and Tools :
+<h3>🛠️ Languages and Tools :</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
