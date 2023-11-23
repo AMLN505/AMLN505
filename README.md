@@ -12,7 +12,7 @@
 </div>
 👨‍💻 About Me :
 <div>I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</div>
-
-hammer_and_wrench Languages and Tools :
+<br>
+:hammer_and_wrench Languages and Tools :
 
 
